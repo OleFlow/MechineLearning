@@ -61,3 +61,13 @@ In both income groups, the average age and average hours per week are slightly h
 
 **Income Differences:**
 In both gender categories, individuals with an income >50K tend to have a slightly higher average age and work slightly more hours per week compared to those with an income <=50K.
+
+## The metrics for your best model
+
+I used the K-Nearest Neighbors (KNN)
+Accuracy: 72% accuracy is a reasonable starting point
+
+## Conclusion
+**Understanding Demographic and Socioeconomic Factors:**
+
+Analyze the scatter plot of age vs. hours per week to understand the distribution of working hours across different age groups. This can help in tailoring policies or interventions for specific age demographics, especially considering factors like productivity and employee satisfaction.
